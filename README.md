@@ -6,5 +6,7 @@ To perform code:
   #python get-pip.py 
   #pip install pyvisa  
   #pip install pyvisa pyvisa-py 
-  #pip install pandas 
+  #pip install pandas
+2) Check IP adress of oscilloscope:
+   
 
