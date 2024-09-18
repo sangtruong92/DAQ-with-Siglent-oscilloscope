@@ -11,7 +11,7 @@ To perform code:
   + pip install pandas
     
 2) Check IP adress of oscilloscope step by step:
-  + Function of oscilloscope: Utility -> I/O -> IP Set.
+  + Function of oscilloscope: Utility (change page) -> I/O -> IP Set.
   Note:
   + Make sure your computer connected to oscilloscope.
   + You can check the IP addess on web brower: http://192.168.1.212/ , for instance.
