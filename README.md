@@ -14,6 +14,6 @@ To perform code:
   + Make sure your computer connected to oscilloscope.
   + You can check the IP addess on web brower: http://192.168.1.212/ , for instance.
     
-3) Change the same IP Adress of oscilloscope in code : 
+3) Change the same IP Adress of oscilloscope in code : REMOTE_IP = "169.254.144.94"
    
 
