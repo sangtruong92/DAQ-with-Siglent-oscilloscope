@@ -7,7 +7,13 @@ To perform code:
   + pip install pyvisa  
   + pip install pyvisa pyvisa-py 
   + pip install pandas
+    
 2) Check IP adress of oscilloscope step by step:
-  
+  + Function of oscilloscope: Utility -> I/O -> IP Set.
+  Note:
+  + Make sure your computer connected to oscilloscope.
+  + You can check the IP addess on web brower: http://192.168.1.212/ , for instance.
+    
+3) Change the same IP Adress of oscilloscope in code : 
    
 
